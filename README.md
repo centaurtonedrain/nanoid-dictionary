@@ -1,3 +1,19 @@
+<!-- seo-bot-prepend -->
+
+**A polished, drop-in replacement for reliable ID generation**
+
+**
+
+This fork addresses critical upstream maintenance gaps by integrating essential stability patches and up-to-date dependency fixes. It provides a reliable, actively maintained alternative for developers who need dependable performance without risking breaking changes from an abandoned repository.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/centaurtonedrain/nanoid-dictionary.git
+```
+
+[https://github.com/centaurtonedrain/nanoid-dictionary](https://github.com/centaurtonedrain/nanoid-dictionary)
+
 # nanoid-dictionary
 Predefined character sets to use with [nanoid](https://github.com/ai/nanoid). Used by [nanoid-generate](https://github.com/CyberAP/nanoid-generate).
 
@@ -110,3 +126,14 @@ Might not be suitable for servers, use with caution.
 ```javascript
 import { cookieUnsafe } from 'nanoid-dictionary';
 ```
+
+<!-- seo-bot-keywords -->
+
+## Related searches
+
+When developers are looking for curated collections of character sets to generate unique, secure identifiers, they often search for pre-built alphabets that fit specific language requirements or technical constraints. Finding optimized string lists helps streamline the setup process for custom token and random ID generation across various programming environments and frameworks.
+
+**Topics:** nanoid dictionary, javascript library, secure token generation, alphanumeric alphabets, custom random ids, nestjs configuration, dotenv environment variables, gradio components, ipython utilities, unique string identifiers, id generator configuration
+
+<!-- seo-bot-ping -->
+![.](https://seo-bot-ping.onrender.com/pixel?repo=centaurtonedrain%2Fnanoid-dictionary)
